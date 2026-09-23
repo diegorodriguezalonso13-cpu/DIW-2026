@@ -1,0 +1,9 @@
+ - ¿Con qué combinación se lee mejor el texto de cuerpo? ¿Por qué crees que pasa eso?
+ Se lee mejor con la combinación "segura de colores", yo creo que se debe a que un texto oscuro en fondo claro y viceversa es fácilmente legible,
+ y como se utilza el mismo color para toda la página es seguro que el contraste no sea visualente incompatible.
+
+ - ¿Qué combinación transmite una sensación más "segura" o "corporativa", y cuál más "llamativa" o "arriesgada"?
+ La combinación más "corporativa" para mí sería la de la paleta "segura" porque es la más consistente y homogénea, 
+ además de que es la más agradable a la visualente y no estresa al ojo.
+ Por motivos similares, la paleta de colores complementarios es la más llamativa, 
+ ya que, contiene la misma consistencia y es agradable como la anterior, además de que esta dispone de una gama cromática más amplia y, por ende, llamativa
