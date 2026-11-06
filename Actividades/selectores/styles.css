@@ -85,17 +85,33 @@ li:last-child {
   background-color: cadetblue;
 }
 /* 19. :not(.destacado): aplica un borde a todos los ciclos que no tengan la clase destacado.*/
-
+.ciclo:not(.destacado) {
+  border: 10px solid;
+}
 /* 20. :focus: cuando un enlace reciba el foco mediante el teclado, debe mostrar un contorno visible.*/
-
+a:focus {
+  outline: 3px solid pink;
+}
 /* E. PSEUDOELEMENTOS */
 
 /* 21. ::before: añade un símbolo decorativo antes del texto de cada título h2.*/
-
+h2::before {
+  content: "\2192";
+}
 /* 22. ::after: añade un texto - Más información después de los títulos h3 de los ciclos.*/
-
+h3::after {
+  content: " Wowoa";
+}
 /* 23. ::first-letter: aumenta el tamaño de la primera letra de los párrafos de las noticias.*/
-
+p::first-letter {
+  font-size: 140%;
+}
 /* 24. ::first-line: muestra en negrita la primera línea de los párrafos de la sección de noticias.*/
-
+p::first-line {
+  font-weight: bold;
+}
 /* 25. ::selection: establece un fondo azul y texto blanco cuando el usuario seleccione texto de la página.*/
+p::selection {
+  background-color: blue;
+  color: white;
+}
